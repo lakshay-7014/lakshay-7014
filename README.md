@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#"><img width="100%"  src="https://www.logicwaves.in/images/6.gif" /></a>
+<a href="#"><img width="100%"  src="https://www.ricelasvegas.com/wp-content/uploads/2021/09/Computer-Gif-rent-comps.gif" /></a>
 </p>
 
 
