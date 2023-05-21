@@ -10,9 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **State management in Flutter**
+- 🔭 I’m currently working on **RENTEASE application**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently exploring **Salesforce**
 
 - 👯 I’m looking to collaborate on **Flutter open source projects**
 
